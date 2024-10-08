@@ -9,7 +9,7 @@ The goal of this project is to process raw single-nucleus ATAC-seq (snATAC-seq) 
   - Quality control (QC)
   - Cell-type annotation
   - Base-level coverage calculation and further QC
-- Details the structure of the base-level chromatin accessibility data, including:
+- Details the structure of the base-level chromatin accessibility data
 
 ### Meeting Agenda and To-Do List:
 - Summarizes project updates and action items from recent meetings.
